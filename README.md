@@ -20,6 +20,9 @@ Welcome to the Stock Data Analysis Tool, codename Stock_Lens, repository! This p
 
 ## Examples
 ![1. Plot Closing Price with Pivot points](pics/Figure_1.png)
+![2. Plot Price and Accumulation/Distribution with RSI](pics/Figure_2.png)
+![3. Plot Price and Volume](pics/Figure_3.png)
+![4. Plot Candlestick](pics/Figure_4.png)
 
 ## Installation
 
