@@ -23,3 +23,17 @@ Welcome to the Stock Data Analysis Tool, codename Stock_Lens, repository! This p
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/stock-data-analysis-tool.git
+
+## Requirements
+- yfinance
+- matplotlib
+- numpy
+- datetime
+- matplotlib.dates
+- colorama
+- scipy
+- mplfinance
+- matplotlib
+ 
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance the tool. Ensure your code adheres to the PEP 8 standard and includes relevant documentation.
