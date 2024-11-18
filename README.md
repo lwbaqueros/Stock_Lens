@@ -18,6 +18,9 @@ Welcome to the Stock Data Analysis Tool, codename Stock_Lens, repository! This p
   - Separate modules for graph generation, time axis control, and data parsing.
 - **Built for Long-Term Investment Insights**: Ideal for investors seeking to identify trends and opportunities in the stock market.
 
+## Examples
+![1. Plot Closing Price with Pivot points](pics/Figure_1.png)
+
 ## Installation
 
 1. Clone the repository:
